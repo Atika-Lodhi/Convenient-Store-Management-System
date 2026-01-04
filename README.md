@@ -32,9 +32,9 @@ A **desktop-based store management system** that allows efficient management of 
 ---
 
 ## Technologies Used
-- Programming Language: **Python / Java / C#** (Specify what you used)
-- GUI Framework: **Tkinter / JavaFX / Windows Forms** (Specify)
-- Data Storage: **SQLite / CSV / Text Files** (Specify)
+- Programming Language: **Python** 
+- GUI Framework: **Tkinter** 
+- Data Storage: **SQLite**
 
 ---
 
